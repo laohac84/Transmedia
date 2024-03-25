@@ -1,0 +1,14 @@
+11:46 AM 10/26/2023
+Thay đổi kích thước ảnh LED trước BUS Liên Ninh do ô kính nhỏ.
+08A, 08B, 09A, 09B, 09A_CN, 09B_CN, 21A, 21B, 37, 19
+
+08A: LONG BIÊN - GIÁP BÁT - ĐÔNG MỸ
+08B: VẠN PHÚC - GIÁP BÁT - GA HN - LONG BIÊN
+09A: BỜ HỒ - CẤU GIẤY - KLCQ - ĐẠI HỌC MỎ
+09A_CN: TRẦN KHÁNH DƯ - CẦU GIẤY - KLCQ - ĐẠI HỌC MỎ
+09B: BỜ HỒ - CÔNG VIÊN THỐNG NHẤT - BẾN XE MỸ ĐÌNH
+09B_CN: TRẦN KHÁNH DƯ - BẾN XE MỸ ĐÌNH
+21A: BẾN XE GIÁP BÁT - BẾN XE YÊN NGHĨA
+21B: DUYÊN THÁI - KĐT PHÁP VÂN TỨ HIỆP - BẾN XE MỸ ĐÌNH
+37: BẾN XE GIÁP BÁT - CHƯƠNG MỸ
+19: TRẦN KHÁNH DƯ - HỌC VIỆN CHÍNH SÁCH VÀ PHÁT TRIỂN

@@ -1,0 +1,27 @@
+6:22 PM 8/28/2023
+T49 - T51 - T42 
+- Logo XKHN
+- Nội dung Led giữ nguyên
+- Code cho led D8 mới
+- Code 1: Led trước D8 mới, HUB75, 6 tấm (1 tấm số, 5 tấm nội dung)
+- Code 2: Led trước D8 mới, HUB75, 4 tấm (1 tấm số, 3 tấm số nội dung)
+
+T118: 
+- BX Sơn Tây - QL32 - Bất Bạt
+- Code 1: Led trước D8 cũ, HUB75, 4 boards
+- Code 2: Led trước D8 cũ, HUB75, 5 board
+
+T09A
+- T09A thứ 2 - thứ 6: Bờ Hồ - Cầu Giấy - KLCQ - ĐH Mỏ
+- T09A thứ 7 - CN: Trần Khánh Dư - Cầu Giấy - KLCQ - ĐH Mỏ
+- R8T6, LED P8.2
+
+T08B
+Vạn Phúc - Giáp Bát - Ga HN - Long Biên
+Long Biên - Ga HN - Giáp Bát - Vạn Phúc
+
+
+T69
+LONG BIÊN - DƯƠNG QUANG
+- Code 1: Led trước D8 cũ, HUB75, 4 boards
+- Code 2: Led trước D8 cũ, HUB75, 5 board
